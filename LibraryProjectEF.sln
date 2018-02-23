@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryProject.Web", "LibraryProject.Web\LibraryProject.Web.csproj", "{174E5116-862A-4C0A-8A5B-58492E26EBCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryProject.Models", "LibraryProject.Models\LibraryProject.Models.csproj", "{8FDF308B-9490-457E-B940-DDD3239C4DCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{174E5116-862A-4C0A-8A5B-58492E26EBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{174E5116-862A-4C0A-8A5B-58492E26EBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{174E5116-862A-4C0A-8A5B-58492E26EBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDF308B-9490-457E-B940-DDD3239C4DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDF308B-9490-457E-B940-DDD3239C4DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDF308B-9490-457E-B940-DDD3239C4DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDF308B-9490-457E-B940-DDD3239C4DCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
