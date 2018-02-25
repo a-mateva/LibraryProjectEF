@@ -12,6 +12,6 @@ namespace LibraryProject.Models
         public string Isbn { get; set; }
         public bool IsAvailable { get; set; }
 
-        public virtual BookLoan Loan { get; set; }
+        public virtual BookLoan BookLoan { get; set; }
     }
 }
